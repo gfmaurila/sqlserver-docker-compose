@@ -1,2 +1,2 @@
-# sqlserver-docker-compose
-sqlserver-docker-compose
+# SqlServer Docker Compose
+- docker-compose up
